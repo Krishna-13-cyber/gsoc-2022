@@ -1,0 +1,13 @@
+title: 'GSoC 2022 Progress Tracker'
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+
+footer: 'follow me on <a href="https://github.com/Krishna-13-cyber">github</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
